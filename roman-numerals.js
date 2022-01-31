@@ -1,6 +1,6 @@
 const setI = (i) => {
+  let output = [];
   return romanNumerals = (num) => {
-    let output = [];
     const arr = [1000, 500, 100, 50, 10, 5, 1];
     const letters=['M','D','C','L','X','V','I'];
     if (num === 0) {
